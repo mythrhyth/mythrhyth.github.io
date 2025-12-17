@@ -8,7 +8,7 @@ const projects = [
     title: "Traffic Violation Detection System",
     description:
       "A computer vision-based system that automatically detects traffic violations such as triple riding, helmet absence, and red-light jumping from CCTV footage using deep learning and OpenCV. The model performs object detection and classification to assist traffic authorities in enforcing road safety.",
-    image: "\\src\\assets\\traffic_violation_detection.png",
+    image: "\\assets\\traffic_violation_detection.png",
     github: "https://github.com/mythrhyth/traffic-violation-detection",
     demo: "https://youtu.be/owq0NMS5mEo", 
     coffee: "https://www.buymeacoffee.com/mythrhyth",
@@ -57,7 +57,7 @@ const projects = [
     title: "Medical Center Website for university with intranet deployment",
     description:
       "A comprehensive website for a university medical center, featuring appointment scheduling, health resources, and intranet deployment for staff communication.",
-    image: "\\src\\assets\\image.png",
+    image: "\\assets\\image.png",
     demo: "https://youtu.be/VDxDI-JHkk8",
     requestCode: true, 
     contributors: [
@@ -87,7 +87,7 @@ const projects = [
     title: "Hallucination Detection System",
     description:
       "A research-driven project using hallucination injection and reasoning benchmarking to detect reasoning hallucinations in LLMs.",
-    image: "\\src\\assets\\HALLUCINATION_DETECTION.png",
+    image: "\\assets\\HALLUCINATION_DETECTION.png",
     github: "https://github.com/mythrhyth/hallucination-detection",
     demo: "https://youtube.com/shorts/8poxQailL80",
     coffee: "https://www.buymeacoffee.com/mythrhyth",
@@ -232,7 +232,7 @@ const projects = [
   title: "LSTM Story Generator",
   description:
     "An AI-powered story and poem continuation app built using LSTM networks. It generates creative continuations of user prompts and is deployed with a Streamlit interface for easy interaction.",
-  image: "\\src\\assets\\LSTM_STORY.png",
+  image: "\\assets\\LSTM_STORY.png",
   github: "https://github.com/mythrhyth/story_generator",
   demo: "https://youtu.be/he4Y3QM78BM",
   coffee: "https://www.buymeacoffee.com/mythrhyth", // optional
@@ -257,7 +257,7 @@ const projects = [
   title: "Alien Invasion Game",
   description:
     "A 2D space shooting game built using Python's Pygame library. The player controls a spaceship that must defend Earth from waves of invading aliens. The game features smooth controls, increasing difficulty levels, collision detection, and score tracking.",
-  image: "\\src\\assets\\alien_invasion.png",
+  image: "\\assets\\alien_invasion.png",
   github: "https://github.com/mythrhyth/alien-invasion",
   demo: "https://www.youtube.com/watch?v=aewbo9MOZjc", // Replace with real gameplay demo if available
   coffee: "https://www.buymeacoffee.com/mythrhyth",
