@@ -33,7 +33,7 @@ const projects = [
     title: "OmniRAG",
     description:
       "A Retrieval-Augmented Generation (RAG) system that combines vector and keyword-based search for enhanced information retrieval.",
-    image: "public\\pictures\\omni_rag.png",
+    image: "\\pictures\\omni_rag.png",
     github: "https://github.com/mythrhyth/omniRAG",
     demo: "https://youtu.be/0xd3tIaGJm4",
     coffee: "https://www.buymeacoffee.com/mythrhyth",
@@ -140,7 +140,7 @@ const projects = [
     title: "Face Recognition Attendance System",
     description:
       "An automated attendance system using facial recognition technology built with OpenCV and Python.",
-    image: "public\\assets\\face_recognition.png",
+    image: "\\assets\\face_recognition.png",
     github: "https://github.com/mythrhyth/face-recognition-attendance",
     demo: "https://youtu.be/aTw4fcLi0Ps",
     contributors: [
@@ -184,7 +184,7 @@ const projects = [
     title: "Community Forum Platform",
     description:
       "A full-stack community forum platform with user authentication, post creation, and real-time discussions.",
-    image: "public\\pictures\\community_forum.png",
+    image: "\\pictures\\community_forum.png",
     github: "https://github.com/mythrhyth/community-forum",
     demo: "https://youtu.be/demo-link",
     contributors: [
