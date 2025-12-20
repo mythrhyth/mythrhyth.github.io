@@ -141,7 +141,7 @@ const projects = [
     description:
       "An automated attendance system using facial recognition technology built with OpenCV and Python.",
     image: "\\assets\\face_recognition.png",
-    github: "https://github.com/mythrhyth/face-recognition-attendance",
+    github: "https://github.com/mythrhyth/facial-recognition-student-attendance",
     demo: "https://youtu.be/aTw4fcLi0Ps",
     contributors: [
       {
