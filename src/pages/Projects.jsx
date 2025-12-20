@@ -9,7 +9,7 @@ const projects = [
     description:
       "A computer vision-based system that automatically detects traffic violations such as triple riding, helmet absence, and red-light jumping from CCTV footage using deep learning and OpenCV. The model performs object detection and classification to assist traffic authorities in enforcing road safety.",
     image: "\\pictures\\traffic_violation.png",
-    github: "https://github.com/mythrhyth/traffic-violation-detection",
+    github: "https://github.com/mythrhyth/traffic_violation_detection",
     demo: "https://youtu.be/owq0NMS5mEo", 
     coffee: "https://www.buymeacoffee.com/mythrhyth",
     contributors: [
@@ -58,7 +58,7 @@ const projects = [
     description:
       "A comprehensive website for a university medical center, featuring appointment scheduling, health resources, and intranet deployment for staff communication.",
     image: "\\pictures\\NITMedi.png",
-    demo: "https://youtu.be/VDxDI-JHkk8",
+    demo: "https://drive.google.com/file/d/1t4Twl7up6qPA5tM6BF1MWYSjDXG2TuR9/view?usp=sharing",
     requestCode: true, 
     contributors: [
       {
