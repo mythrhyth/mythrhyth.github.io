@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { Github, Linkedin, Mail } from "lucide-react";
-import yourphoto from "../assets/myphoto.jpg";
+import yourphoto from "/public/assets/myphoto.jpg";
 
 export default function Hero() {
   const roles = ["Aspiring AI Engineer", "Research Enthusiast", "Developer"];

@@ -8,7 +8,7 @@ const projects = [
     title: "Traffic Violation Detection System",
     description:
       "A computer vision-based system that automatically detects traffic violations such as triple riding, helmet absence, and red-light jumping from CCTV footage using deep learning and OpenCV. The model performs object detection and classification to assist traffic authorities in enforcing road safety.",
-    image: "\\assets\\traffic_violation_detection.png",
+    image: "\\pictures\\traffic_violation.png",
     github: "https://github.com/mythrhyth/traffic-violation-detection",
     demo: "https://youtu.be/owq0NMS5mEo", 
     coffee: "https://www.buymeacoffee.com/mythrhyth",
@@ -30,12 +30,12 @@ const projects = [
   }
 ,
   {
-    title: "Hybrid RAG",
+    title: "OmniRAG",
     description:
       "A Retrieval-Augmented Generation (RAG) system that combines vector and keyword-based search for enhanced information retrieval.",
-    image: "https://via.placeholder.com/400x250?text=Hybrid+RAG",
-    github: "https://github.com/mythrhyth/hybrid-rag",
-    demo: "https://youtu.be/demo-link",
+    image: "public\\pictures\\omni_rag.png",
+    github: "https://github.com/mythrhyth/omniRAG",
+    demo: "https://youtu.be/0xd3tIaGJm4",
     coffee: "https://www.buymeacoffee.com/mythrhyth",
     contributors: [
       {
@@ -57,7 +57,7 @@ const projects = [
     title: "Medical Center Website for university with intranet deployment",
     description:
       "A comprehensive website for a university medical center, featuring appointment scheduling, health resources, and intranet deployment for staff communication.",
-    image: "\\assets\\image.png",
+    image: "\\pictures\\NITMedi.png",
     demo: "https://youtu.be/VDxDI-JHkk8",
     requestCode: true, 
     contributors: [
@@ -87,7 +87,7 @@ const projects = [
     title: "Hallucination Detection System",
     description:
       "A research-driven project using hallucination injection and reasoning benchmarking to detect reasoning hallucinations in LLMs.",
-    image: "\\assets\\HALLUCINATION_DETECTION.png",
+    image: "\\pictures\\hallucination_detection.png",
     github: "https://github.com/mythrhyth/hallucination-detection",
     demo: "https://youtube.com/shorts/8poxQailL80",
     coffee: "https://www.buymeacoffee.com/mythrhyth",
@@ -117,7 +117,7 @@ const projects = [
     title: "Stock Price Prediction App",
     description:
       "Predicts real-time stock movements using ML models integrated with a Streamlit dashboard.",
-    image: "https://via.placeholder.com/400x250?text=Stock+App",
+    image: "\\pictures\\stock_price_predictor.png",
     github: "https://github.com/mythrhyth/stock-predictor",
     demo: "https://youtu.be/demo-link",
     contributors: [
@@ -140,9 +140,9 @@ const projects = [
     title: "Face Recognition Attendance System",
     description:
       "An automated attendance system using facial recognition technology built with OpenCV and Python.",
-    image: "https://via.placeholder.com/400x250?text=Face+Recognition+App",
+    image: "public\\assets\\face_recognition.png",
     github: "https://github.com/mythrhyth/face-recognition-attendance",
-    demo: "https://youtu.be/demo-link",
+    demo: "https://youtu.be/aTw4fcLi0Ps",
     contributors: [
       {
         name: "Rhythm Bhetwal",
@@ -160,7 +160,7 @@ const projects = [
     title: "Brain Tumor Detection",
     description:
       "A medical imaging project that detects brain tumors from MRI scans using deep learning techniques.",
-    image: "https://via.placeholder.com/400x250?text=Brain+Tumor+Detection",
+    image: "\\pictures\\brain_tumor.png",
     github: "https://github.com/mythrhyth/brain-tumor-detection",
     demo: "https://youtu.be/demo-link",
     coffee: "https://www.buymeacoffee.com/mythrhyth", // ☕ added
@@ -184,7 +184,7 @@ const projects = [
     title: "Community Forum Platform",
     description:
       "A full-stack community forum platform with user authentication, post creation, and real-time discussions.",
-    image: "https://via.placeholder.com/400x250?text=Community+Forum",
+    image: "public\\pictures\\community_forum.png",
     github: "https://github.com/mythrhyth/community-forum",
     demo: "https://youtu.be/demo-link",
     contributors: [
@@ -205,34 +205,34 @@ const projects = [
       { name: "Firebase", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" },
     ],
   },
-  {
-    title: "Mobile App for Personal Loan Management",
-    description:
-      "A mobile application that helps users manage personal loans, track payments, and calculate interest.",
-    image: "https://via.placeholder.com/400x250?text=Loan+Management+App",
-    github: "https://github.com/mythrhyth/loan-management-app",
-    demo: "https://youtu.be/demo-link",
-    contributors: [
-      {
-        name: "Rhythm Bhetwal",
-        profile: "https://github.com/mythrhyth",
-        avatar: "https://avatars.githubusercontent.com/u/100419159?v=4",
-      },
-    ],
-    tech: [
-      { name: "React Native", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
-      { name: "Expo", logo: "https://avatars.githubusercontent.com/u/12504344?s=200&v=4" },
-      { name: "Firebase", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" },
-      { name: "Redux", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" },
-      { name: "Node.js", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" },
-      { name: "Express", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" },
-    ],
-  },
+  // {
+  //   title: "Mobile App for Personal Loan Management",
+  //   description:
+  //     "A mobile application that helps users manage personal loans, track payments, and calculate interest.",
+  //   image: "https://via.placeholder.com/400x250?text=Loan+Management+App",
+  //   github: "https://github.com/mythrhyth/loan-management-app",
+  //   demo: "https://youtu.be/demo-link",
+  //   contributors: [
+  //     {
+  //       name: "Rhythm Bhetwal",
+  //       profile: "https://github.com/mythrhyth",
+  //       avatar: "https://avatars.githubusercontent.com/u/100419159?v=4",
+  //     },
+  //   ],
+  //   tech: [
+  //     { name: "React Native", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
+  //     { name: "Expo", logo: "https://avatars.githubusercontent.com/u/12504344?s=200&v=4" },
+  //     { name: "Firebase", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" },
+  //     { name: "Redux", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" },
+  //     { name: "Node.js", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" },
+  //     { name: "Express", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" },
+  //   ],
+  // },
   {
   title: "LSTM Story Generator",
   description:
     "An AI-powered story and poem continuation app built using LSTM networks. It generates creative continuations of user prompts and is deployed with a Streamlit interface for easy interaction.",
-  image: "\\assets\\LSTM_STORY.png",
+  image: "\\pictures\\lstm_story.png",
   github: "https://github.com/mythrhyth/story_generator",
   demo: "https://youtu.be/he4Y3QM78BM",
   coffee: "https://www.buymeacoffee.com/mythrhyth", // optional
@@ -257,7 +257,7 @@ const projects = [
   title: "Alien Invasion Game",
   description:
     "A 2D space shooting game built using Python's Pygame library. The player controls a spaceship that must defend Earth from waves of invading aliens. The game features smooth controls, increasing difficulty levels, collision detection, and score tracking.",
-  image: "\\assets\\alien_invasion.png",
+  image: "\\pictures\\alien_invasion.png",
   github: "https://github.com/mythrhyth/alien-invasion",
   demo: "https://www.youtube.com/watch?v=aewbo9MOZjc", // Replace with real gameplay demo if available
   coffee: "https://www.buymeacoffee.com/mythrhyth",
@@ -370,7 +370,18 @@ export default function Projects() {
                       key={index}
                       className="flex items-center gap-2 bg-[#0f0f0f] border border-gray-800 text-gray-200 text-xs px-2 py-1 rounded-full"
                     >
-                      <img src={tech.logo} alt={tech.name} className="w-4 h-4 rounded-sm" />
+                      <img
+                        src={tech.logo}
+                        alt={tech.name}
+                        className="w-4 h-4 rounded-sm"
+                        onError={(e) => {
+                          e.currentTarget.onerror = null;
+                          const firstChar = tech?.name ? tech.name.charAt(0) : "?";
+                          e.currentTarget.src = `https://via.placeholder.com/16/0b0b0b/ffffff?text=${encodeURIComponent(
+                            firstChar
+                          )}`;
+                        }}
+                      />
                       {tech.name}
                     </span>
                   ))}
