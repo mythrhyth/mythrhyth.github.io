@@ -9,8 +9,8 @@ export default function Resume() {
         Download my latest resume and explore my technical journey.
       </p>
       <a
-        href="/Rhythm_Bhetwal_Resume.pdf"
-        download
+        href="/assets/rhythm_bhetwal_resume.pdf"
+        download="rhythm_bhetwal_resume.pdf"
         className="bg-pink-400 text-black px-6 py-3 rounded-full font-semibold hover:bg-pink-300 transition flex items-center justify-center gap-2 mx-auto w-fit"
       >
         <Download size={18} /> Download Resume
